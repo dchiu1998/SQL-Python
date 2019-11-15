@@ -1,5 +1,5 @@
 # SQL-Python
-Python implementation of SQL. Accepts queries and returns specified rows from a file when run.
+Python implementation of SQL. Accepts queries and returns specified rows and columns from a file when run.
 
 
 
